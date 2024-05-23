@@ -1,4 +1,4 @@
-package com.aldomarassolin.Gutende.MainAPP;
+package com.aldomarassolin.MainAPP;
 
 public class Main {
 

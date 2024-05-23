@@ -1,6 +1,6 @@
-package com.aldomarassolin.Gutende;
+package com.aldomarassolin;
 
-import com.aldomarassolin.Gutende.MainAPP.Main;
+import com.aldomarassolin.MainAPP.Main;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,11 +8,11 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class })
-public class GutendeApplication implements CommandLineRunner {
+public class GutendeLibApplication implements CommandLineRunner {
 
 	public static void main(String[] args){
 
-		SpringApplication.run(GutendeApplication.class, args);
+		SpringApplication.run(com.aldomarassolin.GutendeLibApplication.class, args);
 
 	}
 

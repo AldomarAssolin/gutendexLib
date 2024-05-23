@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.ibb.co/x74W8QK/Gutendex.png" width=615 height="200"/>
+  <img src="https://i.ibb.co/x74W8QK/Gutendex.png"/>
 </div>
 
 <h1 style="color:#bb856b">Gutendex<span style="color:#121054">Lib</span></h1>
