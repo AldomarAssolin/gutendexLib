@@ -1,10 +1,6 @@
 
 <div align="center">
-<<<<<<< HEAD
   <img src="https://i.ibb.co/x74W8QK/Gutendex.png"/>
-=======
-  <img src="https://github.com/AldomarAssolin/gutendexLib/assets/70400399/c174e0b6-3487-4a6d-9b4b-72c81d38670d"/>
->>>>>>> 893b130ba8ea275ce927a8c075fef8f9fd64c4cf
 </div>
 
 <h1 style="color:#bb856b">Gutendex<span style="color:#121054">Lib</span></h1>
@@ -51,11 +47,7 @@ Exemplo de resposta:
     "autor": "Autor Exemplo",
     "isbn": "1234567890",
     "publicacao": "2023-05-01"
-<<<<<<< HEAD
   }
-=======
-  },
->>>>>>> 893b130ba8ea275ce927a8c075fef8f9fd64c4cf
 ]
 ```
 
