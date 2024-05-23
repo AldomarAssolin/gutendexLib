@@ -18,7 +18,7 @@ public class GutendeApplication implements CommandLineRunner {
 
 	public void run(String... args){
 		Main main = new Main();
-		Main.showMenu();
+		main.showMenu();
 	}
 
 }
