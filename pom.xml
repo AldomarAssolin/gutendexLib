@@ -5,14 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.6</version>
+
+		<version>3.2.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aldomarassolin</groupId>
-	<artifactId>Gutende</artifactId>
+	<artifactId>GutendexLib</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Gutende</name>
-	<description>Demo project for Spring Boot</description>
+	<name>GutendexLib</name>
+	<description>Consumo de API de uma livraria</description>
+
 	<properties>
 		<java.version>17</java.version>
 	</properties>
