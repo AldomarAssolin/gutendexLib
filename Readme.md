@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://github.com/AldomarAssolin/gutendexLib/assets/70400399/c174e0b6-3487-4a6d-9b4b-72c81d38670d"/>
+  <img src="https://i.ibb.co/x74W8QK/Gutendex.png"/>
 </div>
 
 <h1 style="color:#bb856b">Gutendex<span style="color:#121054">Lib</span></h1>
@@ -47,7 +46,7 @@ Exemplo de resposta:
     "autor": "Autor Exemplo",
     "isbn": "1234567890",
     "publicacao": "2023-05-01"
-  },
+  }
 ]
 ```
 
